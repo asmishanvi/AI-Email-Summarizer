@@ -2,6 +2,9 @@
 
 A frontend-only web app that turns email text into a short summary, actionable tasks, and detected deadlines using rule-based heuristics (no API keys or paid services required).
 
+# Live Demo
+https://ai-email-summarizer.netlify.app
+
 ## Features
 - Paste any email and analyze it with one click
 - Structured output: summary, tasks, and deadlines
